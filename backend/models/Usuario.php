@@ -1,6 +1,6 @@
 <?php
   namespace Backend\Models;
-
+  // Revisado
   class Usuario {
     public $id;
     public $nombre;

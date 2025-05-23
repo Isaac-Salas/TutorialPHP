@@ -1,9 +1,10 @@
 <?php
+// Revisado
   namespace Backend\Config;
 
   class Database {
-    private $host = "localhost:8889";
-    private $db_name = "yt_php";
+    private $host = "localhost:3306";
+    private $db_name = "proyecto_php";
     private $username = "root";
     private $password = "root";
     private $conn;
