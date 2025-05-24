@@ -1,5 +1,6 @@
 <?php
   namespace Backend\Config;
+  //Arreglao
 
   class Database {
     private $host = "localhost:8889";
