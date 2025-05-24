@@ -1,5 +1,4 @@
 <?php
-//Revisado
   namespace Backend\Interfaces;
 
   use Backend\Models\Usuario;

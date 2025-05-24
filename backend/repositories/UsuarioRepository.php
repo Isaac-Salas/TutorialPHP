@@ -1,5 +1,4 @@
 <?php
-// Revisado
   namespace Backend\Repositories;
 
   use Backend\Models\Usuario;
